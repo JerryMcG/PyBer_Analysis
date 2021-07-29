@@ -7,6 +7,7 @@ V. Isualize has asked us to create a summary DataFrame for all Ride Sharing data
 ## Results
 
 Summary Results by City Type:
+
 <img src = "analysis/Summary_DataFrame.png"/>
 
 From the above results we can see quite a few differences between each City Type. 
